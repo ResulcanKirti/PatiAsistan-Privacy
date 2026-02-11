@@ -37,3 +37,5 @@ Kullanıcılar; verilerine erişme, düzeltme talep etme veya verilerinin silinm
 
 7. İletişim
 Gizlilik politikası ile ilgili sorularınız için: E-posta: patiasistan@gmail.com
+
+Hesap silmek için patiasistan@gmail.com adresine mail atın
