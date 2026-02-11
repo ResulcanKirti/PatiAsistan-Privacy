@@ -1,117 +1,39 @@
-📄 PATİASİSTAN GİZLİLİK POLİTİKASI
-
+GİZLİLİK POLİTİKASI (PatiAsistan)
 Son Güncelleme: 25.01.2026
 
-PatiAsistan olarak kullanıcılarımızın gizliliğine önem veriyoruz. Bu Gizlilik Politikası, mobil uygulamamız aracılığıyla hangi verilerin toplandığını, nasıl işlendiğini ve nasıl korunduğunu açıklar.
+PatiAsistan ("Uygulama"), kullanıcılarının ve evcil hayvanlarının gizliliğine önem verir. Bu metin, hangi verilerin toplandığını, nasıl kullanıldığını ve haklarınızı açıklar.
 
 1. Toplanan Veriler
+Hizmet sunabilmek adına aşağıdaki veriler işlenmektedir:
 
-Uygulama aşağıdaki verileri toplayabilir:
+Kullanıcı Bilgileri: Ad-soyad, e-posta adresi, telefon numarası, doğum tarihi.
 
-1.1 Kullanıcı Bilgileri
+Evcil Hayvan Bilgileri: Ad, tür, ırk, doğum tarihi, fiziksel ölçüler, aşı/ilaç kayıtları, günlük rutinler ve medya (fotoğraflar).
 
-Ad Soyad
+Cihaz Bilgileri: Teknik performans verileri ve isteğe bağlı sağlanan konum verisi.
 
-E-posta adresi
+2. Veri İşleme Amaçları
+Verileriniz şu amaçlarla kullanılır:
 
-Telefon numarası (isteğe bağlı)
+Uygulama özelliklerinin (takip, analiz, raporlama) sağlanması.
 
-Doğum tarihi (isteğe bağlı)
+Kullanıcı deneyiminin iyileştirilmesi ve teknik güvenliğin tesisi.
 
-1.2 Evcil Hayvana Ait Bilgiler
+Yasal yükümlülüklerin yerine getirilmesi.
 
-Ad, tür, ırk
+3. Veri Paylaşımı ve Aktarım
+Verileriniz üçüncü taraflara satılmaz. Sadece hizmetin yürütülmesi için gerekli olan altyapı sağlayıcıları (sunucu, analiz, bildirim servisleri) ile paylaşılan veriler, hizmetin gerekliliği ile sınırlıdır.
 
-Doğum tarihi
+4. Tıbbi Sorumluluk Reddi
+PatiAsistan bir veterinerlik hizmeti değildir. Uygulama içindeki veriler ve analizler bilgilendirme amaçlıdır; teşhis veya tedavi teşkil etmez. Hayvan sağlığına ilişkin kararlarda profesyonel veteriner hekim desteği alınmalıdır.
 
-Kilo, boy ve vücut ölçüleri
+5. Veri Güvenliği ve Saklama
+Güvenlik: Verileriniz endüstri standartlarında teknik yöntemlerle korunur.
 
-Aşı ve ilaç bilgileri
+Saklama Süresi: Hesabınızı sildiğinizde, yasal olarak saklanması zorunlu olmayan tüm veriler kalıcı olarak silinir.
 
-Alerji bilgileri
+6. Kullanıcı Hakları
+Kullanıcılar; verilerine erişme, düzeltme talep etme veya verilerinin silinmesini isteme hakkına sahiptir. Bu talepler uygulama içinden veya iletişim kanallarından iletilebilir.
 
-Günlük aktivite, uyku ve ruh hali kayıtları
-
-Harcama kayıtları
-
-Notlar ve medya içerikleri
-
-1.3 Teknik Veriler
-
-Cihaz modeli
-
-İşletim sistemi sürümü
-
-Uygulama sürümü
-
-Çökme raporları (varsa)
-
-2. Verilerin İşlenme Amaçları
-
-Toplanan veriler şu amaçlarla kullanılır:
-
-Hizmetin sunulması
-
-Kullanıcıya analiz ve raporlama sağlanması
-
-Sistem güvenliğinin sağlanması
-
-Teknik sorunların tespiti ve giderilmesi
-
-Yasal yükümlülüklerin yerine getirilmesi
-
-3. Konum Verisi
-
-Uygulama sürekli konum takibi yapmaz.
-Konum verisi yalnızca kullanıcı açıkça izin verdiğinde ve belirli özellikler için kullanılabilir.
-
-4. Veri Paylaşımı
-
-Kişisel veriler üçüncü taraflarla satılmaz.
-
-Ancak aşağıdaki durumlarda hizmet sağlayıcılarla sınırlı veri paylaşımı yapılabilir:
-
-Sunucu barındırma hizmetleri
-
-Analitik hizmetleri
-
-Bildirim hizmetleri
-
-Bu hizmet sağlayıcılar verileri yalnızca hizmet sunmak amacıyla işler.
-
-5. Veri Güvenliği
-
-Veriler, endüstri standartlarına uygun teknik ve idari güvenlik önlemleri ile korunur.
-
-Ancak internet üzerinden veri iletiminde mutlak güvenlik garanti edilemez.
-
-6. Veri Saklama Süresi
-
-Veriler, kullanıcı hesabı aktif olduğu sürece saklanır.
-
-Hesap silme talebi halinde, yasal saklama yükümlülükleri dışında kalan veriler kalıcı olarak silinir.
-
-7. Kullanıcı Hakları
-
-Kullanıcılar:
-
-Verilerine erişme
-
-Verilerini düzeltme
-
-Verilerini silme
-
-İşlemeyi sınırlandırma
-
-haklarına sahiptir.
-
-Talepler için:
-patiasistan@gmail.com
-
-8. Çocukların Gizliliği
-
-Uygulama 13 yaş altı çocuklara doğrudan yönelik değildir. Bilinçli olarak çocuklardan veri toplanmaz.
-
-9. Değişiklikler
-
-Bu politika zaman zaman güncellenebilir. Güncel sürüm uygulama içinde veya web sitesinde yayımlanır.
+7. İletişim
+Gizlilik politikası ile ilgili sorularınız için: E-posta: patiasistan@gmail.com
