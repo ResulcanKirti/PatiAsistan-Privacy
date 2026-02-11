@@ -1,85 +1,117 @@
-LokRate Gizlilik Politikası
+📄 PATİASİSTAN GİZLİLİK POLİTİKASI
 
-Yürürlük tarihi: 04.09.2025
-Uygulama: LokRate
+Son Güncelleme: 25.01.2026
 
-LokRate; kullanıcıların mekan ekleme, yorum yapma, eklenmiş mekanları haritada görme, yol tarifi alma ve mekanlara yorum ekleme işlemlerini yapabilmesi için geliştirilmiştir. Bu metin, hangi verileri nasıl işlediğimizi ve haklarınızı açıklar.
+PatiAsistan olarak kullanıcılarımızın gizliliğine önem veriyoruz. Bu Gizlilik Politikası, mobil uygulamamız aracılığıyla hangi verilerin toplandığını, nasıl işlendiğini ve nasıl korunduğunu açıklar.
 
-Topladığımız Veriler
+1. Toplanan Veriler
 
-Konum verisi:
-Sadece siz izin verdiğinizde, yakın mekanları göstermek, harita merkezini belirlemek ve yol tarifi başlatmak için anlık konumunuza erişiriz.
+Uygulama aşağıdaki verileri toplayabilir:
 
-Konum verisi sürekli saklanmaz.
+1.1 Kullanıcı Bilgileri
 
-Bir mekan eklerken konum bilgisini siz sağlarsınız.
+Ad Soyad
 
-Kullanıcı içerikleri:
-Eklediğiniz mekanlar ve yorumlar uygulamanın temel işlevi gereği herkese açık olarak diğer kullanıcılara gösterilir.
+E-posta adresi
 
-Teknik günlük verileri (sınırlı):
-Hata ayıklama ve güvenlik amaçlarıyla cihaz/işletim sistemi bilgisi, istek zaman damgası gibi sınırlı teknik veriler geçici olarak işlenebilir.
+Telefon numarası (isteğe bağlı)
 
-Hesap bilgisi: LokRate şu aşamada oturum açma/hesap oluşturma gerektirmez; ad, e-posta gibi kimlik bilgilerini istemeyiz.
+Doğum tarihi (isteğe bağlı)
 
-Verileri Nasıl Kullanıyoruz?
+1.2 Evcil Hayvana Ait Bilgiler
 
-Uygulama işlevlerini sağlamak.
+Ad, tür, ırk
 
-Kötüye kullanımın önlenmesi ve güvenlik.
+Doğum tarihi
 
-Performans ve hata ayıklama.
+Kilo, boy ve vücut ölçüleri
 
-İçerik Kuralları ve Moderasyon
+Aşı ve ilaç bilgileri
 
-Kullanıcıların eklediği uygunsuz içerikler (hakaret, nefret söylemi, spam, kişisel veri ifşası, yasa dışı içerik vb.) kabul edilmez.
+Alerji bilgileri
 
-Geliştirici, bu tür içerikleri kaldırma veya erişimi kısıtlama hakkını saklı tutar.
+Günlük aktivite, uyku ve ruh hali kayıtları
 
-Uygunsuz içerik bildirmek için aşağıdaki İletişim bölümünü kullanabilirsiniz.
+Harcama kayıtları
 
-Paylaşım/Üçüncü Taraflar
+Notlar ve medya içerikleri
 
-Verilerinizi satmayız ve reklam ağlarıyla paylaşmayız.
+1.3 Teknik Veriler
 
-Harita/içerik sağlayıcıları: Haritalar ve döşemeler (tiles) OpenStreetMap ekosistemi veya benzeri sağlayıcılar üzerinden sunulabilir. Yol tarifi için cihazınızdaki harici harita uygulamasına (örn. Google Maps) yönlendirilirsiniz; bu durumda ilgili hizmetin kendi gizlilik politikası geçerlidir.
+Cihaz modeli
 
-Hukuki Dayanak
+İşletim sistemi sürümü
 
-Açık rıza: Konum izni gibi izin gerektiren işlemler.
+Uygulama sürümü
 
-Meşru menfaat: Uygulama işlevleri, güvenlik ve kötüye kullanımın önlenmesi.
+Çökme raporları (varsa)
 
-Saklama Süresi
+2. Verilerin İşlenme Amaçları
 
-Mekan ve yorum verileri, siz sildiğinizde veya moderasyon gerekçesiyle kaldırıldığında sistemden çıkarılır.
+Toplanan veriler şu amaçlarla kullanılır:
 
-Teknik loglar, güvenlik ve hata ayıklama amacıyla makul süre ile sınırlıdır ve sonrasında silinir/anonimleştirilir.
+Hizmetin sunulması
 
-Kullanıcı Haklarınız
+Kullanıcıya analiz ve raporlama sağlanması
 
-Görüntüleme/Düzeltme/Silme: Eklediğiniz mekan ve yorumları uygulama içinden düzenleyebilir veya silebilirsiniz.
+Sistem güvenliğinin sağlanması
 
-İzinleri yönetme: Cihaz ayarlarınızdan konum iznini dilediğiniz zaman kapatabilirsiniz.
+Teknik sorunların tespiti ve giderilmesi
 
-Gerekli hallerde, aşağıdaki iletişim kanalı ile bize ulaşıp veri taleplerinizi iletebilirsiniz.
+Yasal yükümlülüklerin yerine getirilmesi
 
-Güvenlik
+3. Konum Verisi
 
-İletişim sırasında veriler aktarım esnasında korunur.
+Uygulama sürekli konum takibi yapmaz.
+Konum verisi yalnızca kullanıcı açıkça izin verdiğinde ve belirli özellikler için kullanılabilir.
 
-Hiçbir yöntem %100 güvenli olmamakla birlikte, makul teknik ve idari tedbirler uygularız.
+4. Veri Paylaşımı
 
-Çocukların Gizliliği
+Kişisel veriler üçüncü taraflarla satılmaz.
 
-Uygulama çocukları hedeflemez. Ebeveyn izni olmadan çocuklardan bilerek veri toplamayız. Yanlışlıkla toplandığını düşünüyorsanız bizimle iletişime geçin.
+Ancak aşağıdaki durumlarda hizmet sağlayıcılarla sınırlı veri paylaşımı yapılabilir:
 
-Değişiklikler
+Sunucu barındırma hizmetleri
 
-Bu politika güncellenebilir. Güncel sürüm ve yürürlük tarihi bu sayfada yayımlanır.
+Analitik hizmetleri
 
-İletişim
+Bildirim hizmetleri
 
-Sorumlu: LokRate (Bağımsız Geliştirici)
+Bu hizmet sağlayıcılar verileri yalnızca hizmet sunmak amacıyla işler.
 
-E-posta: taromres@gmail.com
+5. Veri Güvenliği
+
+Veriler, endüstri standartlarına uygun teknik ve idari güvenlik önlemleri ile korunur.
+
+Ancak internet üzerinden veri iletiminde mutlak güvenlik garanti edilemez.
+
+6. Veri Saklama Süresi
+
+Veriler, kullanıcı hesabı aktif olduğu sürece saklanır.
+
+Hesap silme talebi halinde, yasal saklama yükümlülükleri dışında kalan veriler kalıcı olarak silinir.
+
+7. Kullanıcı Hakları
+
+Kullanıcılar:
+
+Verilerine erişme
+
+Verilerini düzeltme
+
+Verilerini silme
+
+İşlemeyi sınırlandırma
+
+haklarına sahiptir.
+
+Talepler için:
+patiasistan@gmail.com
+
+8. Çocukların Gizliliği
+
+Uygulama 13 yaş altı çocuklara doğrudan yönelik değildir. Bilinçli olarak çocuklardan veri toplanmaz.
+
+9. Değişiklikler
+
+Bu politika zaman zaman güncellenebilir. Güncel sürüm uygulama içinde veya web sitesinde yayımlanır.
