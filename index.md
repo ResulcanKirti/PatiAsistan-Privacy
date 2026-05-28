@@ -81,15 +81,21 @@ PatiAsistan, kullanıcı verilerini korumak için teknik ve idari güvenlik önl
 
 Ancak internet üzerinden yapılan hiçbir veri aktarımının tamamen risksiz olmadığı unutulmamalıdır.
 
-8. Veri Saklama ve Silme
+8. Veri Saklama ve Hesap Silme
 
 Kullanıcı verileri, hesabın aktif olduğu süre boyunca veya hizmetin sağlanması için gerekli olduğu ölçüde saklanır.
 
-Kullanıcı hesabını sildiğinde, yasal olarak saklanması zorunlu olmayan hesap ve evcil hayvan verileri kalıcı olarak silinir veya anonim hale getirilir.
+Kullanıcılar hesaplarını uygulama içinden silebilir. Bunun için uygulamada:
 
-Hesap silme talebi uygulama içerisinden başlatılabilir. Ayrıca kullanıcılar hesap silme talepleri için patiasistan@gmail.com adresine e-posta gönderebilir.
+Ayarlar > Profil > Hesabımı Sil
 
-Yasal yükümlülük, güvenlik, sahtekarlık önleme veya uyuşmazlık çözümü gibi zorunlu durumlarda bazı kayıtlar sınırlı süreyle saklanabilir.
+adımlarını takip edebilirler.
+
+Hesap silme işlemi başlatıldığında, yasal olarak saklanması zorunlu olmayan hesap bilgileri, evcil hayvan kayıtları, medya dosyaları, rutinler, notlar, analiz verileri ve kullanıcıya bağlı diğer veriler kalıcı olarak silinir veya anonim hale getirilir.
+
+Uygulamaya erişemeyen kullanıcılar hesap silme talebi için info@patiasistan.com adresine e-posta gönderebilir.
+
+Yasal yükümlülük, güvenlik, sahtekarlık önleme, ödeme/abonelik uyuşmazlıkları veya teknik kayıt zorunlulukları nedeniyle bazı veriler sınırlı süreyle saklanabilir.
 
 9. Kullanıcı Hakları
 
@@ -115,5 +121,7 @@ Bu gizlilik politikası zaman zaman güncellenebilir. Önemli değişiklikler uy
 
 Gizlilik politikası, veri işleme süreçleri veya hesap silme talepleri için bizimle iletişime geçebilirsiniz:
 
-E-posta: patiasistan@gmail.com
+E-posta: info@patiasistan.com
 Uygulama: PatiAsistan
+Hesap silme: Ayarlar > Profil > Hesabımı Sil
+Web hesap silme talebi: https://patiasistan.com/hesap-silme
